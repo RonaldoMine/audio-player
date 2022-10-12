@@ -13,4 +13,4 @@ You can view a simple screen shoot of result
 
 
 ## APP SCREEN
-![SCREEN Of App](https://github.com/RonaldoMine/audio-player/blob/master/app.png)
+![SCREEN Of App](https://github.com/RonaldoMine/audio-player/blob/master/app2.png)
